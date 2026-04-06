@@ -5,6 +5,8 @@ Things I want to self host
 
 [Home Assistant](https://www.home-assistant.io/)
 
+[Darawich](https://github.com/Freika/dawarich)
+
 [Immich](https://immich.app/)
 
 [Jellyfin](https://jellyfin.org/)
